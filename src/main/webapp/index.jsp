@@ -4,4 +4,3 @@ Hi there, Welcome to the project<br/>
 ------------------------------------------<br/>
 Thank you for visiting.<br/>
 ------------------------------------------<br/>
-Manoj praveen
