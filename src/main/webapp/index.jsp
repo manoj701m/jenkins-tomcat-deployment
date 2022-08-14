@@ -1,1 +1,1 @@
-<h2>Hi there, Welcome to the project-jenkins-tomcat-deployment</h2>
+<h2>Hello people, Welcome to the project-jenkins-tomcat-deployment</h2>
